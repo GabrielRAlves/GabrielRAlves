@@ -1,7 +1,7 @@
 ### Hey! Don´t worry, it will work. 🍁
 
-- ✨ I’m currently working on Discord.js.
-- ✨ I’m currently learning JavaScript, HTML5, CSS and Node.js.
+♢・**Working on JavaScript, HTML5, CSS and Node.js.**
+♢・**Learning Discord.js, Axios, CheerIO, Canvas and Node-Fetch.**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Goodyz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
